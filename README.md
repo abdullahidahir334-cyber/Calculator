@@ -14,10 +14,6 @@ A clean, modern Android Calculator application built with Kotlin, ViewBinding, a
 | :---: | :---: |
 | ![Multiplication](screenshots/multiplication.png) | ![Division](screenshots/division.png) |
 
-| Help Instructions Dialog |
-| :---: |
-| ![Help Dialog](screenshots/help.png) |
-
 ---
 
 ## ✨ Key Features
