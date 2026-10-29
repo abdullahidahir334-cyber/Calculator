@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator_title">Simple Calculator</string>
+    <string name="select_operation">Select Operation:</string>
+    <string name="hint_first_number">Enter first number</string>
+    <string name="hint_second_number">Enter second number</string>
+    <string name="add_symbol">+</string>
+    <string name="subtract_symbol">−</string>
+    <string name="multiply_symbol">×</string>
+    <string name="divide_symbol">÷</string>
+    <string name="btn_add">Add (+)</string>
+    <string name="btn_subtract">Subtract (-)</string>
+    <string name="btn_multiply">Multiply (×)</string>
+    <string name="btn_divide">Divide (÷)</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_help">Help</string>
+    <string name="result_label">Result: %s</string>
+    <string name="result_placeholder">Result: —</string>
+    <string name="help_title">Calculator Help</string>
+    <string name="help_message">Instructions:\n\n1. Enter the first number in the top field.\n2. Enter the second number in the bottom field.\n3. Select an operation (+, -, ×, ÷).\n4. Press \"Calculate\" to view the result.\n\nTip: You can also tap any operation button for instant calculation!</string>
+    <string name="error_invalid_input">Please enter valid numbers in both input fields.</string>
+    <string name="error_divide_by_zero">Error: Cannot divide by zero!</string>
+    <string name="error_no_operation">Please select an operation (+, -, ×, or ÷) first.</string>
+</resources>
